@@ -1,0 +1,18 @@
+RewriteEngine on
+
+RewriteRule write_a_review-([0-9]+)$ write_a_review.php?id=$1 [NC,L]
+RewriteRule business-([0-9]+)-(.*)$ business.php?id=$1&pname=$2 [NC,L]
+RewriteRule subcategory-([0-9]+)-(.*)$ subcategory.php?id=$1&pname=$2 [NC,L]
+RewriteRule category-([0-9]+)-(.*)$ category.php?id=$1&pname=$2 [NC,L]
+RewriteRule profile-([0-9]+)-(.*)$ profile.php?id=$1&pname=$2 [NC,L]
+RewriteRule photos-([0-9]+)$ photos.php?id=$1 [NC,L]
+RewriteRule upload_photo-([0-9]+)$ upload_photo.php?id=$1 [NC,L]
+RewriteRule all_reviews-([0-9]+)-(.*)$ all_reviews.php?id=$1&pname=$2 [NC,L]
+RewriteRule all_bookmarks-([0-9]+)-(.*)$ all_bookmarks.php?id=$1&pname=$2 [NC,L]
+RewriteRule edit_basic-([0-9]+)$ edit_basic.php?id=$1 [NC,L]
+RewriteRule edit_hours-([0-9]+)$ edit_hours.php?id=$1 [NC,L]
+RewriteRule edit_map-([0-9]+)$ edit_map.php?id=$1 [NC,L]
+RewriteRule tags-(.*)$ tags.php?id=$1 [NC,L]
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+

@@ -1,0 +1,345 @@
+[28-Sep-2025 13:26:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\business.php on line 65
+[28-Sep-2025 13:26:02 Europe/Berlin] PHP Warning:  Undefined variable $lat in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\business.php on line 498
+[28-Sep-2025 13:26:02 Europe/Berlin] PHP Warning:  Undefined variable $long in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\business.php on line 498
+[28-Sep-2025 13:26:02 Europe/Berlin] PHP Warning:  Undefined variable $longFeat in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\business.php on line 579
+[28-Sep-2025 13:26:02 Europe/Berlin] PHP Warning:  Undefined variable $longFeat in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\business.php on line 579
+[28-Sep-2025 13:26:02 Europe/Berlin] PHP Warning:  Undefined variable $lat in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\business.php on line 612
+[28-Sep-2025 13:26:02 Europe/Berlin] PHP Warning:  Undefined variable $long in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\business.php on line 613
+[28-Sep-2025 13:26:02 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:26:02 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:29:53 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:29:53 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:32:43 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:32:43 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:32:49 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:32:49 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:33:00 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:33:00 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:33:17 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:33:17 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:33:24 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:33:24 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:33:29 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:33:29 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:33:33 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:33:33 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:33:39 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:33:39 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:33:44 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:33:44 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:42:03 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:42:03 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:52:17 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:52:17 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:53:13 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:53:13 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 13:55:55 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 13:55:55 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 14:46:46 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 14:46:46 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 14:52:50 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 14:52:50 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 14:52:50 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 14:52:50 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 14:57:02 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 14:57:02 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 14:57:02 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 14:57:02 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 15:15:53 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 15:15:53 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 15:15:53 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 15:15:53 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 15:26:50 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 15:26:50 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 15:26:50 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 15:26:50 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 15:27:16 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 15:27:16 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 15:27:16 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 15:27:16 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 15:28:56 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 15:28:56 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 15:28:56 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 15:28:56 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 15:51:32 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 15:51:32 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 15:51:32 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 15:51:32 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 15:51:58 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 15:51:58 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 15:51:58 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 15:51:58 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 15:52:05 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 15:52:05 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 15:52:05 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 15:52:05 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 15:52:11 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 15:52:11 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 15:52:11 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 15:52:11 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 16:56:07 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 16:56:07 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 16:56:07 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 16:56:07 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 16:56:46 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 16:56:46 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 16:57:24 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 16:57:24 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 16:57:24 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 16:57:24 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 17:29:56 Europe/Berlin] ===== [header_subcategory.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/subcategory-8-hamburguerias =====
+[28-Sep-2025 17:29:56 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:29:56 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 17:29:56 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:29:56 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 17:30:01 Europe/Berlin] ===== [header_subcategory.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/subcategory-8-hamburguerias =====
+[28-Sep-2025 17:30:01 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:30:01 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 17:30:01 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:30:01 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 17:30:11 Europe/Berlin] ===== [header_subcategory.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/subcategory-8-hamburguerias =====
+[28-Sep-2025 17:30:11 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:30:11 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 17:30:11 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:30:11 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 17:31:26 Europe/Berlin] ===== [header_subcategory.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/subcategory-8-hamburguerias =====
+[28-Sep-2025 17:31:26 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:31:26 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 17:31:26 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:31:26 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 17:33:01 Europe/Berlin] ===== [subcategory.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/subcategory-8-hamburguerias =====
+[28-Sep-2025 17:33:01 Europe/Berlin] ===== [header_subcategory.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/subcategory-8-hamburguerias =====
+[28-Sep-2025 17:33:01 Europe/Berlin] [placeholder][header_subcategory] usando placeholder (biz_id=3); src=images/placeholder.png
+[28-Sep-2025 17:33:01 Europe/Berlin] [placeholder][header_subcategory] usando placeholder (biz_id=2); src=images/placeholder.png
+[28-Sep-2025 17:33:01 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:33:01 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 17:33:01 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:33:01 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 17:35:34 Europe/Berlin] ===== [subcategory.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/subcategory-8-hamburguerias =====
+[28-Sep-2025 17:35:34 Europe/Berlin] ===== [header_subcategory.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/subcategory-8-hamburguerias =====
+[28-Sep-2025 17:35:34 Europe/Berlin] [placeholder][header_subcategory] usando placeholder (biz_id=3); src=images/placeholder.png
+[28-Sep-2025 17:35:34 Europe/Berlin] [placeholder][header_subcategory] usando placeholder (biz_id=2); src=images/placeholder.png
+[28-Sep-2025 17:35:34 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:35:34 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 17:35:34 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:35:34 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 17:44:52 Europe/Berlin] ===== [subcategory.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/subcategory-8-hamburguerias =====
+[28-Sep-2025 17:44:52 Europe/Berlin] ===== [header_subcategory.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/subcategory-8-hamburguerias =====
+[28-Sep-2025 17:44:52 Europe/Berlin] [placeholder][header_subcategory] usando placeholder (biz_id=3); src=images/placeholder.png
+[28-Sep-2025 17:44:52 Europe/Berlin] [placeholder][header_subcategory] usando placeholder (biz_id=2); src=images/placeholder.png
+[28-Sep-2025 17:44:52 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:44:52 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 17:44:52 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:44:52 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 17:44:56 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:44:56 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:48:52 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:48:52 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:49:00 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:49:00 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:49:08 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:49:08 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:49:17 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:49:17 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:49:23 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:49:23 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:49:43 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:49:43 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:50:41 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:50:41 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:50:53 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:51:23 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:51:23 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:51:26 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:51:26 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:51:27 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:51:27 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:51:33 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:51:33 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:53:50 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:53:50 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:53:51 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:53:51 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:55:09 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:55:09 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:55:10 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:55:10 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:55:22 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:55:22 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:55:25 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:55:25 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 17:55:43 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:55:43 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 17:55:43 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 17:55:43 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 17:55:43 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 17:55:43 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 17:55:43 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 17:55:43 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 17:55:43 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 17:55:43 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 17:55:43 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 17:56:02 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 17:56:03 Europe/Berlin] PHP Fatal error:  Cannot redeclare normalize_http_dup() (previously declared in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:58) in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\inc\media_helpers.php on line 5
+[28-Sep-2025 18:00:04 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 18:00:04 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:00:04 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:00:04 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:00:04 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:00:04 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:00:04 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:00:04 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 18:00:04 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 18:00:04 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 18:00:04 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 18:00:08 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 18:00:08 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 18:01:45 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 18:01:45 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 18:01:47 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 18:01:47 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:47 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:47 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:47 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:47 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:47 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:47 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 18:01:47 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 18:01:47 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 18:01:47 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 18:01:48 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 18:01:48 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:48 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:48 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:48 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:48 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:48 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:01:48 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 18:01:48 Europe/Berlin] PHP Warning:  Undefined variable $Twitter in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 9
+[28-Sep-2025 18:01:48 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 18:01:48 Europe/Berlin] PHP Warning:  Undefined variable $Pinterest in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 11
+[28-Sep-2025 18:01:55 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 18:01:55 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 18:02:56 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 18:02:56 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 18:03:00 Europe/Berlin] PHP Warning:  Undefined variable $FaceBook in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 8
+[28-Sep-2025 18:03:00 Europe/Berlin] PHP Warning:  Undefined variable $Gplus in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\footer.php on line 10
+[28-Sep-2025 18:04:21 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 18:04:21 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:04:21 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:04:21 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:04:21 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:04:21 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:04:21 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:04:22 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 18:04:22 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:04:22 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:04:22 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:04:22 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:04:22 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:04:22 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:15:58 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 18:16:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php:152
+Stack trace:
+#0 C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php(152): mysqli->query('UPDATE settings...')
+#1 C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\index.php(26): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php on line 152
+[28-Sep-2025 18:19:22 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 18:19:26 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\db.php:3
+Stack trace:
+#0 C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\db.php(3): mysqli->connect('localhost', 'root', Object(SensitiveParameterValue), 'flippy_bizliste...')
+#1 C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_home.php(17): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\index.php(26): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\db.php on line 3
+[28-Sep-2025 18:38:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Lock wait timeout exceeded; try restarting transaction in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_business.php:136
+Stack trace:
+#0 C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_business.php(136): mysqli->query('UPDATE settings...')
+#1 C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\business.php(2): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\TECINFOSP\Flippy BizLister\bizlister_legacy\header_business.php on line 136
+[28-Sep-2025 18:46:45 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 18:46:45 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:46:45 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:46:45 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:46:45 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:46:45 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:46:45 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:46:50 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 18:46:50 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:46:50 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:46:50 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:46:50 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:46:50 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 18:46:50 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:09:54 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 19:09:54 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:09:54 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:09:54 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:09:54 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:09:54 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:09:54 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:26 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 19:10:26 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:26 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:26 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:26 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:26 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:26 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:28 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 19:10:28 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:28 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:28 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:28 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:28 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:10:28 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:09 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 19:11:09 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:09 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:09 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:09 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:09 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:09 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:37 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 19:11:38 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:38 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:38 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:38 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:38 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:38 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] ===== [index.php] request: /TECINFOSP/Flippy%20BizLister/bizlister_legacy/ =====
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=11); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=10); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=9); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=8); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=7); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
+[28-Sep-2025 19:11:42 Europe/Berlin] [placeholder] HOME: usando placeholder (biz_id=6); src=http://localhost/TECINFOSP/Flippy BizLister/bizlister_legacy/images/placeholder.png
